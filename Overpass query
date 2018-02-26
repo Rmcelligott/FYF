@@ -1,0 +1,6 @@
+node["amenity"="fuel"]({{bbox}});
+out;
+way["amenity"="fuel"]({{bbox}});
+out center;
+relation["amenity"="fuel"]({{bbox}});
+out center;
